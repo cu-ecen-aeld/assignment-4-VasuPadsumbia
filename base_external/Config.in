@@ -1,6 +1,4 @@
-config project_base_external
-    bool "Base external project for AELD assignments"
-    help
-      This is a base external project for AELD assignments.
-      It includes the necessary configurations and files to support the assignments.
-      Maintainer: VasuPadsumbia
+source "../base_external/package/aesd-assignments/Config.in"
+
+
+    
